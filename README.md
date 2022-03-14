@@ -1,4 +1,4 @@
-# CICD
+# Dataverse (Power Platform or Dynamics 365) CI \ CD
 
 This project hosts a collection of Powershell Scripts used to 
 
